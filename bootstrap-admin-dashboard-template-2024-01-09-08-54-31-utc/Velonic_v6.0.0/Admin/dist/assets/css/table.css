@@ -1,0 +1,21 @@
+
+
+.table th {
+    background-color: #003366; /* Dark blue for headers */
+    color: #fff; /* White text for headers */
+}
+.table tbody tr:first-child {
+    background-color: #f8f9fa; /* Color for the first row */
+}
+
+.table tbody tr:nth-child(even) {
+    background-color:#EDEADE; /* Color for even rows */
+}
+
+.table tbody tr:nth-child(odd) {
+    background-color: #ffffff; /* Color for odd rows */
+}
+
+.table tbody tr:hover {
+    background-color: lightgray;
+}

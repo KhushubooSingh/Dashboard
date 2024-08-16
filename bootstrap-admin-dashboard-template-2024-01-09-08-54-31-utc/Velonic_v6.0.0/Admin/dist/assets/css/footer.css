@@ -1,0 +1,56 @@
+footer {
+    background-color: #1a2942;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    position: relative; /* Changed to relative to avoid sticking to the bottom */
+    width: 100%;
+}
+
+.footer-links {
+    margin-bottom: 10px;
+}
+
+.footer-links a {
+    color: #A7C7E7;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 13px;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+.footer-contact p {
+    margin: 5px 0;
+}
+
+.footer-contact a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-contact a:hover {
+    text-decoration: underline;
+}
+
+.link-heading{
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.links-address{
+    color: #A7C7E7;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 13px;
+}
+
+
+
+
+
+
+
+
